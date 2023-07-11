@@ -1,0 +1,16 @@
+# Hướng dẫn cài đặt dự án
+## Cài đặt PM2 để quản lý ứng dụng NodeJS
+`npm install -g pm2`
+
+## NodeJS
+- step 1: `cd api`
+- step 2: `npm install`
+- step 3: `npm run build`
+- step 4: `npm run start`
+
+---
+
+## ReactJS
+- step 1: `cd my-app`
+- step 2: `npm install`
+- step 3: `npm run start`
